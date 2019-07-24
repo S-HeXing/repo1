@@ -1,0 +1,9 @@
+/.gradle/
+/.settings/
+*.project
+*.classpath
+/bin/
+/.idea/
+out
+/gradlew.bat
+/gradlew
